@@ -1,1 +1,25 @@
-afsdfsfdsfdsfd
+- tài liệu struts
+http://www.courses.coreservlets.com/Course-Materials/pdf/struts/
+http://www.tutorials4u.net/struts-tutorial/struts1_tutorial_index.html
+http://courses.coreservlets.com/
+http://www.mkyong.com/tutorials/struts-tutorials/
+http://www.coreservlets.com/
+http://www.moreservlets.com/
+
+- pass data jsp
+https://www.programmergate.com/pass-data-javascript-servlet/
+
+
+
+- validate email or day: https://www.regextester.com/95637
+https://www.the-art-of-web.com/javascript/validate-date/
+https://www.w3resource.com/javascript/form/email-validation.php
+
+- js: check all
+https://codepen.io/diegobdev/pen/vGoqKW
+
+-phan trang client
+https://giai-ma.blogspot.com/2016/09/jsp-servlet-phan-trang-san-pham-hien_13.html
+
+- ajax: reload page
+https://stackoverflow.com/questions/8268294/ajax-reload-page-with-post
