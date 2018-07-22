@@ -6,6 +6,35 @@ http://www.mkyong.com/tutorials/struts-tutorials/
 http://www.coreservlets.com/
 http://www.moreservlets.com/
 
+Example:
+https://stackoverflow.com/questions/6944625/prepopulate-form-in-struts1
+
+Taglib:
+https://people.apache.org/~germuska/struts-taglib/docs/tlddoc/html/
+http://www.laliluna.de/articles/posts/struts-example-html-elements.html
+
+Bstrap template
+https://bootstrapious.com/other-templates
+https://aduka.asia/tong-hop-mau-psd-template-website-cat-html-css.html
+
+File java core
+https://docs.oracle.com/javase/6/docs/api/java/io/File.html
+https://www.mkyong.com/java/how-to-move-file-to-another-directory-in-java/?utm_source=mkyong&utm_medium=author&utm_campaign=related-post&utm_content=7
+
+***********************************SPRING **********************************************
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-definition
+https://www.journaldev.com/
+
+java 8
+https://javarevisited.blogspot.com/2015/09/java-8-foreach-loop-example.html
+
+*********************************JSP/SERVLET ******************************************
+http://www.academia.edu/14655538/_Laptrinh_vn_JSP_Servlet
+
+---------------------------------Book-------------------------------------------------
+https://goalkicker.com/
+
+
 - pass data jsp
 https://www.programmergate.com/pass-data-javascript-servlet/
 
@@ -23,3 +52,7 @@ https://giai-ma.blogspot.com/2016/09/jsp-servlet-phan-trang-san-pham-hien_13.htm
 
 - ajax: reload page
 https://stackoverflow.com/questions/8268294/ajax-reload-page-with-post
+
+Nhật
+https://akira.edu.vn/sach-hoc-bang-chu-cai-tieng-nhat/
+
